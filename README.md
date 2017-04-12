@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod "PodDemo"
 ```
 
-## Author
-
-i_songwei@163.com, i_songwei@163.com
-
 ## License
 
 PodDemo is available under the MIT license. See the LICENSE file for more info.
