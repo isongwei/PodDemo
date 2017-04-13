@@ -1,11 +1,11 @@
 use_frameworks!
 
 target 'PodDemo_Example' do
-  pod 'PodDemo', :path => '../'
-
+  pod 'ZSWPodDemo', :path => '../'
+pod 'HJQCustomAlertView', '~> 0.0.4'
   target 'PodDemo_Tests' do
     inherit! :search_paths
-
+	
     
   end
 end

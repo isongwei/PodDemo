@@ -1,16 +1,19 @@
 PODS:
-  - PodDemo (0.1.0)
+  - HJQCustomAlertView (0.0.4)
+  - ZSWPodDemo (0.1.0)
 
 DEPENDENCIES:
-  - PodDemo (from `../`)
+  - HJQCustomAlertView (~> 0.0.4)
+  - ZSWPodDemo (from `../`)
 
 EXTERNAL SOURCES:
-  PodDemo:
+  ZSWPodDemo:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PodDemo: 007f2704424182ae7258f4364f187235c4fd603e
+  HJQCustomAlertView: c95de99f04df07dabd5fa4d144d23a08d9bee884
+  ZSWPodDemo: be2148728bb4b6e598b42b2d345cd0d44a22a7d5
 
-PODFILE CHECKSUM: 57cbd5704fae36fbbede8a8bfc8429f992434203
+PODFILE CHECKSUM: f87164538c4eb1a5da2459fd9b1b865d315a371b
 
 COCOAPODS: 1.1.1

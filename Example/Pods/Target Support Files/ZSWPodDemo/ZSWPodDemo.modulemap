@@ -1,0 +1,6 @@
+framework module ZSWPodDemo {
+  umbrella header "ZSWPodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
