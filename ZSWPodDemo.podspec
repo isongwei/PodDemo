@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author           = { 'i_songwei@163.com' => 'mail.com' }
   s.source           = { :git => 'https://github.com/isongwei/PodDemo.git', :tag => s.version }
   s.ios.deployment_target = '8.0'
-  s.source_files = 'PodDemo/Classes/**/*.{h,m}'
-  s.framework  = "UIKit"
+  s.source_files = 'ZSWPodDemo/Classes/**/*.{h,m}'
+
 
 end
