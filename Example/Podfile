@@ -5,7 +5,5 @@ target 'PodDemo_Example' do
 pod 'HJQCustomAlertView', '~> 0.0.4'
   target 'PodDemo_Tests' do
     inherit! :search_paths
-	
-    
   end
 end
