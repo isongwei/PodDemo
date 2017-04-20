@@ -1,6 +1,0 @@
-framework module HJQCustomAlertView {
-  umbrella header "HJQCustomAlertView-umbrella.h"
-
-  export *
-  module * { export * }
-}
